@@ -1,5 +1,7 @@
 # MicroColorQuantizer
 
+[![Swift](https://github.com/rbruinier/SwiftMicroColorQuantizer/actions/workflows/swift.yml/badge.svg)](https://github.com/rbruinier/SwiftMicroColorQuantizer/actions/workflows/swift.yml)
+
 This package currently offers a very simple color quantizer for bitmap. It can be used to reduce the number
 of unique colors used in an image.
 
